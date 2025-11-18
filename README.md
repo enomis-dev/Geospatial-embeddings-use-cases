@@ -20,10 +20,8 @@ The project will showcase several "cool" applications that are dramatically acce
 In essence, this project is a demonstration of AI-powered pixels, proving that by encoding the planet's complexity into compact, intelligent vectors, we can generate custom, high-detail maps and insights on demand, enabling more informed decision-making on critical issues like food security and climate change.
 
 
-## License
+## Licensing
 
-### Generated Data Products
-CC BY-NC 4.0 - See LICENSE_DATA file
-
-### Code
-MIT License - See LICENSE file
+### Software Code
+All source code, scripts, and software components are licensed under 
+**Apache License 2.0** - see [LICENSE_CODE](LICENSE_CODE).
