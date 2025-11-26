@@ -45,4 +45,4 @@ The results of this temporal transfer evaluation are shown below:
 
 A summary of the full workflow—data selection, embedding extraction, model training, and evaluation—is shown in the following schematic:
 
-![alt text](image.png)
+![alt text](image-5.png)
