@@ -19,6 +19,13 @@ The project will showcase several "cool" applications that are dramatically acce
 
 In essence, this project is a demonstration of AI-powered pixels, proving that by encoding the planet's complexity into compact, intelligent vectors, we can generate custom, high-detail maps and insights on demand, enabling more informed decision-making on critical issues like food security and climate change.
 
+***Notebooks***
+
+-> notebooks/lulc-GEE.ipynb it shows how satellite embeddings can help to create LULC maps and highlight differences between consecutive years
+
+-> notebooks/water-bodies-change-detection.ipynb it shows a practical application to map water bodies change as Lake Urmia in Iran
+
+-> notebooks/crop_type_detection.ipynb it is a POC in which satellite embeddings are used to map crop type with very good results. More details abotu results are provided in docs/crop_type.md
 
 ## Licensing
 
