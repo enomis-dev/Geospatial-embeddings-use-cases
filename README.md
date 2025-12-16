@@ -1,6 +1,6 @@
 **🚀 Introduction to the Geospatial Embeddings Project**
 
-The way we analyze Earth Observation (EO) data is undergoing a revolution. Traditional remote sensing workflows are often burdened by data complexity—requiring extensive preprocessing like cloud masking, atmospheric correction, and manual feature engineering across dozens of spectral bands and sensor types (e.g., optical, radar, climate). This complexity is a major bottleneck for global-scale, real-time environmental monitoring.
+The way we analyze Earth Observation (EO) data is undergoing a revolution. Traditional remote sensing workflows are often burdened by data complexity, requiring extensive preprocessing like cloud masking, atmospheric correction, and manual feature engineering across dozens of spectral bands and sensor types (e.g., optical, radar, climate). This complexity is a major bottleneck for global-scale, real-time environmental monitoring.
 
 **The Embedding Solution**
 
